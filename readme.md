@@ -1,5 +1,7 @@
 # my bujo
 
+在线解析 https://nbviewer.jupyter.org/
+
 ## format
 
 potato 
@@ -39,3 +41,4 @@ x 完成
 ## timelog
 
 具体耗时记录
+
