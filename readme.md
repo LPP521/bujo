@@ -1,5 +1,10 @@
 # my bujo
 
+启发：
+
+* GitHub+Jupyter
+* 坐标四象限+番茄时间+耗时记录+子弹笔记
+
 在线解析 https://nbviewer.jupyter.org/
 
 ## format
