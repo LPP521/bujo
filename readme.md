@@ -4,45 +4,10 @@
 
 <s> * 键盘钢琴 https://www.autopiano.cn/ </s> 调整以听为主
 
-## format
+## function
 
-potato 
-  * 40 min works-25 min relaxing
-  * 25-5 （at home）
+ABC情绪管理方法+子弹笔记+番茄时钟+任务四象限+日历初始想法及对比进度激励
 
-x,y dot
-
-```
-index
-
-monthly log
-
-月份 + 事件主题
-
-daily log
-
-日期 + 任务
-
-* 任务
-
-- 笔记
-
-x 完成
-
-!- 想法
-
-> 推迟几天
-
-< 未来安排
-```
-
-## (e)
-
-事件计划记录
-
-## timelog
-
-具体耗时记录
 
 ## inspiration
 
