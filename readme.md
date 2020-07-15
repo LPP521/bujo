@@ -16,6 +16,10 @@ ABC情绪管理方法+routine+子弹笔记+番茄时钟+任务四象限+日历�
 * 任务四象限：分清任务轻重及优先级
 * 日历提醒：不忘初心，牢记使命
 
+## tool
+
+* PC: gitHub、git、jupyter notebook、python
+* Android: atimelogger、timetracker、grow、钱迹/money manager、豆瓣阅读
 
 ## inspiration
 
