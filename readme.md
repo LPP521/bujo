@@ -24,7 +24,7 @@ ABC情绪管理方法+routine+子弹笔记+番茄时钟+任务四象限+日历�
 * 不断说服反抗的自己冷静，routine+ABC情绪管理方法
 * APP
   * atimelogger用来记录周期较长时间工作如：睡眠
-  * time tracker进行番茄时钟任务
+  * time tracker进行番茄时钟任务 (桌面问题、获取新概念知识各20分钟左右)
   * 钱迹 记录开支
 
 ## tool
