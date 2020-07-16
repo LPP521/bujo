@@ -1,9 +1,5 @@
 # my bujo
 
-* 在线解析 https://nbviewer.jupyter.org/
-
-<s> * 键盘钢琴 https://www.autopiano.cn/ </s> 调整以听为主
-
 ## function
 
 ABC情绪管理方法+routine+子弹笔记+番茄时钟+任务四象限+日历初始想法及对比进度激励
@@ -18,9 +14,18 @@ ABC情绪管理方法+routine+子弹笔记+番茄时钟+任务四象限+日历�
 
 **直接今天规划明天的事情！减少重复劳动！但也确实不能妥协啊！**
 
+## behaviour
+
+如果每天都做jupyter notebook的总结，反而觉得任务繁重，不利于持续化输出。一周两三次的话，这样其实也不会觉得繁重，还利于总结的验证与适应及吸收。在深圳最便利是手机，在家则是电脑，但最便携的还是手机，所以有必要调整对策：
+
+* git journal 用来 ABC/ABC 划分每日的优先级别 == 备忘录
+* jupyter notebook就像以前写日记一样，日记也不是天天就写的嘛
+* 我每次开机自启特定日历excel（减少重复任务操作，专注内容）
+
 ## tool
 
 * PC: gitHub、git、jupyter notebook、python
+*  在线解析 https://nbviewer.jupyter.org/
 * Android: atimelogger、timetracker、grow、钱迹/money manager、豆瓣阅读
 
 ## inspiration
