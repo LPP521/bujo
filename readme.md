@@ -21,6 +21,11 @@ ABC情绪管理方法+routine+子弹笔记+番茄时钟+任务四象限+日历�
 * git journal 用来 ABC/ABC 划分每日的优先级别 == 备忘录
 * jupyter notebook就像以前写日记一样，日记也不是天天就写的嘛
 * 我每次开机自启特定日历excel（减少重复任务操作，专注内容）
+* 不断说服反抗的自己冷静，routine+ABC情绪管理方法
+* APP
+  * atimelogger用来记录周期较长时间工作如：睡眠
+  * time tracker进行番茄时钟任务
+  * 钱迹 记录开支
 
 ## tool
 
