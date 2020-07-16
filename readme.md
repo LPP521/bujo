@@ -4,7 +4,6 @@
 
 ABC情绪管理方法+routine+子弹笔记+番茄时钟+任务四象限+日历初始想法及对比进度激励
 
-
 * ABC情绪管理方法：辅助换位思考
 * routine： 让自己冷静的重复动作（利用条件反射达成冷静）
 * 子弹笔记：收集信息
@@ -13,6 +12,12 @@ ABC情绪管理方法+routine+子弹笔记+番茄时钟+任务四象限+日历�
 * 日历提醒：不忘初心，牢记使命
 
 **直接今天规划明天的事情！减少重复劳动！但也确实不能妥协啊！**
+
+### tool
+
+* PC: gitHub、git、jupyter notebook、python
+*  在线解析 https://nbviewer.jupyter.org/
+* Android: atimelogger、timetracker、grow、钱迹/money manager、豆瓣阅读
 
 ## behaviour
 
@@ -24,15 +29,16 @@ ABC情绪管理方法+routine+子弹笔记+番茄时钟+任务四象限+日历�
 * 不断说服反抗的自己冷静，routine+ABC情绪管理方法
 * APP
   * atimelogger用来记录周期较长时间工作如：睡眠
-  * time tracker进行番茄时钟任务 (桌面问题、获取新概念知识各20分钟左右)
+  * time tracker进行番茄时钟任务 
   * 钱迹 记录开支
 
-## tool
+### time log
 
-* PC: gitHub、git、jupyter notebook、python
-*  在线解析 https://nbviewer.jupyter.org/
-* Android: atimelogger、timetracker、grow、钱迹/money manager、豆瓣阅读
+番茄时钟40分钟，提前了20分钟完成某一个任务，剩余的近20分钟却不知道干嘛，由此需要缩短时间。
 
+* 桌面问题、获取新概念知识各20分钟左右
+
+<!--
 ## inspiration
 
 **6.25，朋友的开导与自己阅读名人历史评论觉悟：既然选择走这条路，就不要不由自主主观的抱怨或嫉妒；要是抱怨或嫉妒，而自己不去想改善的法子和实际的付出行动，那当初何必选择走这条路呢？平躺快快乐乐地过就好了。**
@@ -40,8 +46,4 @@ ABC情绪管理方法+routine+子弹笔记+番茄时钟+任务四象限+日历�
 **6.27，走上社会进入私企的那一刻，都已经成为社会的小齿轮就不要想着停下来了，所做的只有让自己更快更好的转动，不能被社会淘汰！**
 
 —— 2020 6.27 记
-
-### idea
-
-* GitHub+Jupyter
-* 坐标四象限+番茄时间+耗时记录+子弹笔记
+-->
