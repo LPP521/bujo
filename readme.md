@@ -33,7 +33,7 @@ ABC情绪管理方法+routine+子弹笔记+番茄时钟+任务四象限+日历�
 <thead>
   <tr>
     <th>提</th>
-    <th colspan="3" rowspan="3">笔记</th>
+    <th colspan="3" rowspan="3">笔记内容</th>
   </tr>
   <tr>
     <td>示</td>
