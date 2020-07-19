@@ -25,6 +25,29 @@ ABC情绪管理方法+routine+子弹笔记+番茄时钟+任务四象限+日历�
   * atimelogger用来记录周期较长时间工作如：睡眠
   * time tracker进行番茄时钟任务 
   * 钱迹 记录开支
+  
+  
+### 康奈尔笔记
+
+<table>
+<thead>
+  <tr>
+    <th>提</th>
+    <th colspan="3" rowspan="3">笔记</th>
+  </tr>
+  <tr>
+    <td>示</td>
+  </tr>
+  <tr>
+    <td>栏</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="4">概要总结</td>
+  </tr>
+</tbody>
+
 
 ### time log
 
